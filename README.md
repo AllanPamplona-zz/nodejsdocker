@@ -1,0 +1,2 @@
+## Desplegar
+docker-compose up
